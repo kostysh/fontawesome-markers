@@ -1,0 +1,21 @@
+{
+   "name":"fontawesome-markers",
+   "version":"0.0.1",
+   "repository":{
+      "type":"git",
+      "url":"https://github.com/kostysh/fontawesome-markers.git"
+   },
+   "main":[
+      "fontawesome-markers.min.js"
+   ],
+   "description":"fontawesome-markers",
+   "dependencies":{},
+   "ignore":[
+      ".*"
+   ],
+   "keywords":[
+      "fontawesome-markers"
+   ],
+   "homepage":"",
+   "license":""
+}
